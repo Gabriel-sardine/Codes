@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723314810 source:c:\users\gabriel\documents\estudos\1 periodo\nova pasta\atividade string 1\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
